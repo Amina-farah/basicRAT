@@ -16,5 +16,3 @@ This is a boilerplate Python RAT (Remote Access Trojan). I created this to maint
 ## Other open-source Python RATs for Reference
 * [ahhh/Reverse_DNS_Shell](https://github.com/ahhh/Reverse_DNS_Shell)
 * [sweetsoftware/Ares](https://github.com/sweetsoftware/Ares)
-
-
